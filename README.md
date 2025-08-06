@@ -57,7 +57,7 @@ If you’d like to connect, collaborate, or discuss this project:
 
 - **Chaitanya Patil**  
 - 📧 [Email](patilchaitanya871@gmail.com) 
-- 🔗 [LinkedIn](www.linkedin.com/in/chaitanya-patil-33369b268)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya-patil-33369b268)  
 - 🌐 [GitHub Portfolio](https://github.com/Chaitanya18P)
 
 ---
