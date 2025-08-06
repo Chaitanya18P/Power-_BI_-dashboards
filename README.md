@@ -47,7 +47,7 @@ To provide a visually interactive report that enables:
 - Consumers to compare device performance
 - Businesses to explore market insights
 - Data learners to understand BI dashboard creation for the health tech sector
-- Data Analysis of wearable devices that can use in Virtual Clinical trials
+- Data Analysis of wearable devices which are used in Virtual Clinical trials
 
 ---
 
