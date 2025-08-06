@@ -56,7 +56,7 @@ To provide a visually interactive report that enables:
 If you’d like to connect, collaborate, or discuss this project:
 
 - **Chaitanya Patil**  
-- 📧 [Email](patilchaitanya871@gmail.com) 
+- 📧 [Email](https://patilchaitanya871@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya-patil-33369b268)  
 - 🌐 [GitHub Portfolio](https://github.com/Chaitanya18P)
 
