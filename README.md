@@ -1,5 +1,82 @@
 # Power-_BI_-dashboards
 A collection of interactive Power BI dashboards showcasing insights from healthcare, clinical research, and wearable technology datasets. Focused on data storytelling and business decision-making.
+# 📊 Indian Kids Daily Screen Time Analysis Dashboard
+
+A Power BI dashboard that visually explores **screen time habits among children in India**, focusing on device usage, age and gender breakdowns, and health impacts. This interactive report aims to raise awareness about excessive screen exposure and its possible effects on child well-being.
+
+---
+
+## 🎯 Purpose
+
+To analyze daily screen time data of Indian kids to:
+- Compare actual vs. recommended screen usage
+- Identify patterns by **gender, region, and device**
+- Track associated **health impacts** like eye strain, obesity, and poor sleep
+
+---
+
+## 🔍 Key Features
+
+- **Screen Time Overview** – Highlights the actual average screen time (4.82 hrs) vs. the ideal recommended time (2 hrs)
+- **Age & Gender Analysis** – Shows screen usage variation by age and gender
+- **Device Usage Trends** – Breakdown of usage across smartphones, laptops, TVs, and tablets
+- **Health Impact Tracker** – Maps excessive usage to physical and mental health concerns
+- **Demographic Filters** – Slice by rural/urban, male/female
+
+---
+
+## 📁 Data Snapshot
+
+- **Total Records:** 9,712 kids
+- **Avg. Age:** 12.98 years
+- **Fields Tracked:**
+  - Age
+  - Gender
+  - Device used
+  - Screen time (hrs/day)
+  - Health impacts
+  - Location type (Urban/Rural)
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+- **Power BI Desktop**
+- **DAX** for KPIs & calculated metrics
+- Data pre-processed in **Excel**
+
+---
+
+## 📂 How to Use
+
+1. Clone or download the repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Explore visuals using slicers and filters.
+4. Analyze trends and health correlations.
+
+---
+
+## 📎 Use Case
+
+Great for:
+- Educators & schools
+- Public health analysts
+- Policy makers
+- Parents concerned with digital well-being
+
+---
+
+## 📬 Contact
+
+**Chaitanya Patil**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya-patil-33369b268)
+
+---
+
+## 📄 License
+
+For educational and non-commercial use only.
+
 # Wearable Health Devices Dashboard 📊💡
 
 This Power BI dashboard provides an analytical overview of 2,300+ wearable health devices from top global brands such as Apple, Fitbit, Garmin, Samsung, and more.
