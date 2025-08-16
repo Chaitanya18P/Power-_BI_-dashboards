@@ -144,4 +144,54 @@ If you’d like to connect, collaborate, or discuss this project:
 This project is for educational purposes only.  
 No commercial use of the dataset or dashboard is permitted without permission.
 
+# Health Diseases & Revenue Analysis Dashboard
+
+## 📊 Project Overview
+This project presents an **interactive Power BI dashboard** for analyzing **health diseases and revenue trends**.  
+It provides insights into patient demographics, billing amounts, medical conditions, and test results, helping healthcare stakeholders make **data-driven decisions**.
+
+---
+
+## 🚀 Features
+- **Total Billing Analysis**
+  - Overall billing amount: **$1.42 Billion**
+  - Average billing per patient: **$26K**
+- **Patient Demographics**
+  - Total patients: **55.5K**
+  - Average age: **52 years**
+  - Average admit days: **16 days**
+- **Medical Analysis**
+  - Patient distribution by blood group
+  - Medical condition analysis by gender (Arthritis, Diabetes, Hypertension, etc.)
+  - Test results (Normal, Abnormal, Inconclusive)
+- **Revenue Insights**
+  - Billing contribution by gender
+  - Top 5 patients by billing
+  - Insurance provider & admission type billing overview
+
+---
+
+## 📷 Dashboard Preview
+![Dashboard Screenshot](assets/health_diseases_dashboard.png)
+
+---
+
+## 🛠️ Tools Used
+- **Power BI** – Data visualization and dashboard creation  
+- **Excel/CSV** – Data preprocessing (if applicable)  
+- **Healthcare Dataset** – Patient demographics, billing, and test data  
+
+---
+
+## 🎯 Key Insights
+- Nearly equal billing contribution from **Male ($711M)** and **Female ($706M)** patients.  
+- **Abnormal test results** account for the **largest proportion (33.56%)** of patients.  
+- **Diabetes** and **Arthritis** are the most common medical conditions among patients.  
+- **Top patients and insurance providers** contribute significantly to overall revenue.  
+
+---
+
+## 📂 Repository Structure
+
+
 
