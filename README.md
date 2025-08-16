@@ -174,7 +174,7 @@ It provides insights into patient demographics, billing amounts, medical conditi
 
 ## 🛠️ Tools Used
 - **Power BI** – Data visualization and dashboard creation  
-- **Excel/CSV** – Data preprocessing (if applicable)  
+- **Excel/CSV** – Data preprocessing
 - **Healthcare Dataset** – Patient demographics, billing, and test data  
 
 ---
