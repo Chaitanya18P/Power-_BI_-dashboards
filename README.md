@@ -169,10 +169,6 @@ It provides insights into patient demographics, billing amounts, medical conditi
   - Top 5 patients by billing
   - Insurance provider & admission type billing overview
 
----
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](assets/health_diseases_dashboard.png)
 
 ---
 
