@@ -187,7 +187,7 @@ It provides insights into patient demographics, billing amounts, medical conditi
 
 ---
 
-#🛍️ Customers Sales Analysis Dashboard
+# 🛍️ Customers Sales Analysis Dashboard
 
 This project showcases an interactive Power BI dashboard for analyzing customer sales data. The dashboard provides insights into total revenue, purchasing behavior, demographics, and category-wise performance.
 
