@@ -187,6 +187,72 @@ It provides insights into patient demographics, billing amounts, medical conditi
 
 ---
 
+🛍️ Customers Sales Analysis Dashboard
+
+This project showcases an interactive Power BI dashboard for analyzing customer sales data. The dashboard provides insights into total revenue, purchasing behavior, demographics, and category-wise performance.
+
+📊 Dashboard Overview
+
+The dashboard includes the following key features:
+
+✅ KPIs
+
+Total Revenue: $251.5M
+
+Quantity Purchased: 299K
+
+Total Customers: 99.46K
+
+Average Age: 43.43
+
+✅ Visualizations
+
+Donut Chart: Total Customers Per Category
+
+Bar Charts:
+
+Total Revenue by Top 5 Malls
+
+Revenue & Quantities by Payment Method
+
+Revenue by Purchasing Month
+
+Table: Demographics & Categories Purchased
+
+Category-wise Revenue
+
+✅ Filters
+
+Year Slicers: 2021 | 2022 | 2023
+
+Category Selection
+
+🎨 Design Details
+
+Theme: Dark mode with gradient background (Purple to Deep Blue)
+
+Accent Colors: Bright green for KPIs, grayscale for charts
+
+Layout: Clean, organized with consistent spacing and alignment
+
+🛠️ Tools & Technologies
+
+Power BI Desktop
+
+Dataset: Online Retail Sales Data
+
+---
+
+✅ Insights Derived
+
+Clothing category generates the highest revenue ($114M).
+
+Majority of purchases are made by Female customers ($150.21M).
+
+Cash payment is the most preferred method ($113M revenue).
+
+Mall of Istanbul & Kanyon are the top-performing malls.
+
 
 
 
